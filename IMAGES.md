@@ -15,3 +15,5 @@
 <img src="https://github.com/user-attachments/assets/a4398925-7f8f-4ee6-acce-c6059ca731c9" 
      alt="scripts_comparison" 
      style="width: 900px; height: auto;" />
+
+<img src="https://github.com/user-attachments/assets/7577fae3-249e-4af0-a89b-af7278c41412" alt="image" width="800"/>
